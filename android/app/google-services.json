@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969370113999",
+    "firebase_url": "https://bewapp-11d4a.firebaseio.com",
+    "project_id": "bewapp-11d4a",
+    "storage_bucket": "bewapp-11d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969370113999:android:fd40c142e6c516af03e4ba",
+        "android_client_info": {
+          "package_name": "com.enetb.flutter_app123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969370113999-m84nv2hrr4348c3v1d3b8bi0vemnacjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIp_Z7hBBvz0jpRk0ZZ7miFgEZ1acDjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969370113999-m84nv2hrr4348c3v1d3b8bi0vemnacjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
